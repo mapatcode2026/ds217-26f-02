@@ -1,0 +1,12 @@
+Cutoff: 140
+Reason:Systolic blood pressure at or above cutoff
+P002
+P006
+P011
+P014
+P018
+P006
+P022
+P025
+P011
+P028

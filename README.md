@@ -3,7 +3,7 @@
 ## Project description
  ##This project reads clinic encounter data from a CSV file, summarizes blood pressure measurements, and produces a vitals report and follow-up patient list. 
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+
 
 ## Run
 
